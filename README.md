@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-I have recently as joined data analyst at PyBer, a ride-sharing app company, and was assigned my first big project. Me and my manager, Omar, had to analyze all the ridesharing data from January to early May of 2019 and present the findings in compelling visualizations to the CEO, V. Isulaize. 
+I have recently joined as data analyst at PyBer, a ride-sharing app company, and was assigned my first big project. Me and my manager, Omar, had to analyze all the ridesharing data from January to early May of 2019 and present the findings in compelling visualizations to the CEO, V. Isulaize. 
 
 
 V. Isualize has given us a new assignment which includes creating following using Pandas and Matplotlib:
