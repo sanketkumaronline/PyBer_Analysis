@@ -2,13 +2,13 @@
 
 ## Overview of the analysis
 
-I have recently joined data analyst at PyBer, a ride-sharing app company, and was assigend my first big project. Me and my manager, Omar, had to analyze all the ridesharing data from January to early May of 2019 and present the findings in compelling visualizations to the CEO, V. Isulaize. 
+I have recently as joined data analyst at PyBer, a ride-sharing app company, and was assigned my first big project. Me and my manager, Omar, had to analyze all the ridesharing data from January to early May of 2019 and present the findings in compelling visualizations to the CEO, V. Isulaize. 
 
 
-V. Isualize gave us a new assignment which includes creating following using Pandas and Matplotlib:
-1. To create summary DataFrame of ride-sharing data by city type.
-2. Create multiple-line graph which shows total weekly fares for each city type.
-3. Submit a written report that summarize how results differ with each city type and how these can be used for decision-making at PyBer 
+V. Isualize has given us a new assignment which includes creating following using Pandas and Matplotlib:
+1. Summary DataFrame of ride-sharing data by city type.
+2. Multiple-line graph which shows total weekly fares for each city type.
+3. A written report that summarize how results differ with each city type and how these can be used for decision-making at PyBer. 
 
 ## Results
 
