@@ -10,6 +10,8 @@ V. Isualize has given us a new assignment which includes creating following usin
 2. Multiple-line graph which shows total weekly fares for each city type.
 3. A written report that summarize how results differ with each city type and how these can be used for decision-making at PyBer. 
 
+Resources: ride_data.csv, city_data.csv
+
 ## Results
 
 ### Summary DataFrame:
